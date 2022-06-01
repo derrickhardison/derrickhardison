@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨🏾‍💻 I'm Derrick, Certified Scrum Master (CSM) and a full-stack software engineer with a passion for creating responsive, accessible, user-friendly, web applications. 
+
+🌱 I’m currently learning about flexbox, CSS Grid, and SASS.
+
+🤝 I love meeting new people and collaborating on projects! Let's connect!
+
+💬 Ask me about agile scrum methodology, the SDLC, or anything else that comes to mind.  
