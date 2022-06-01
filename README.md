@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨🏾‍💻 I'm Derrick, Certified Scrum Master (CSM) and a full-stack software engineer with a passion for creating responsive, accessible, user-friendly, web applications. 
+👨🏾‍💻 I'm Derrick, a Certified Scrum Master (CSM) and a full-stack software engineer with a passion for creating responsive, accessible, user-friendly, web applications. 
 
 🌱 I’m currently learning about flexbox, CSS Grid, and SASS.
 
